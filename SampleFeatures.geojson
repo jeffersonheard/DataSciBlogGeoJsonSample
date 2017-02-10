@@ -1,0 +1,353 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9202263,
+          40.7628959
+        ]
+      },
+      "properties": {
+        "emv": 818000.0,
+        "ownername": "RABOS, CONSTANTINE",
+        "bav": 98946.0,
+        "tba": 12720.0,
+        "taxclass": "2a - 4-6 unit residential building",
+        "tbea": 12720.0,
+        "propertytax": 12720.0,
+        "address": "35th Street, Astoria, Queens County, NYC, New York, 11101, United States of America",
+        "taxrate": "12.8550%",
+        "longitude": -73.9202263,
+        "latitude": 40.7628959
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7509159,
+          40.659682
+        ]
+      },
+      "properties": {
+        "emv": 494000.0,
+        "ownername": "WILSON, MARJORIE",
+        "bav": 26203.0,
+        "tba": 4718.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 5020.0,
+        "propertytax": 4718.0,
+        "address": "230th Street, Laurelton, Queens County, NYC, New York, 11413, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.7509159,
+        "latitude": 40.659682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7380649,
+          40.772826
+        ]
+      },
+      "properties": {
+        "emv": 1350000.0,
+        "ownername": "DENNIS DELORENZO",
+        "bav": 52058.0,
+        "tba": 9671.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 9973.0,
+        "propertytax": 9671.0,
+        "address": "Westmoreland Street, Douglaston, Queens County, NYC, New York, 11363, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.7380649,
+        "latitude": 40.772826
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8685837397059,
+          40.6726126
+        ]
+      },
+      "properties": {
+        "emv": 440000.0,
+        "ownername": "JAMES OXLEY FAMILY IRREVOCABLE TRUST",
+        "bav": 24715.0,
+        "tba": 4433.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 4735.0,
+        "propertytax": 4433.0,
+        "address": "664, Hemlock Street, East New York, Kings County, NYC, New York, 11208, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.8685837397059,
+        "latitude": 40.6726126
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9733999834947,
+          40.63383805
+        ]
+      },
+      "properties": {
+        "emv": 929000.0,
+        "ownername": "MELVIN BRICKMAN",
+        "bav": 41158.0,
+        "tba": 7583.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 7885.0,
+        "propertytax": 7583.0,
+        "address": "507, Avenue F, Parkville, BK, Kings County, NYC, New York, 11218, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.9733999834947,
+        "latitude": 40.63383805
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9025341058374,
+          40.7149715
+        ]
+      },
+      "properties": {
+        "emv": 182000.0,
+        "ownername": "PARKS AND RECREATION (GENERAL)",
+        "bav": 79290.0,
+        "taxclass": "4 - commercial property",
+        "tbea": 8471.0,
+        "propertytax": 0.0,
+        "address": "60-16, 61st Street, Fresh Pond, Queens County, NYC, New York, 11378, United States of America",
+        "taxrate": "10.6840%",
+        "longitude": -73.9025341058374,
+        "latitude": 40.7149715
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94377505,
+          40.60120065
+        ]
+      },
+      "properties": {
+        "emv": 408000.0,
+        "ownername": "FRANKIE KAFAI LAU",
+        "bav": 24480.0,
+        "tba": 4388.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 4690.0,
+        "propertytax": 4388.0,
+        "address": "2053, East 28th Street, Sheepshead Bay, BK, Kings County, NYC, New York, 11229, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.94377505,
+        "latitude": 40.60120065
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7661746,
+          40.6987185
+        ]
+      },
+      "properties": {
+        "emv": 450000.0,
+        "ownername": "PATRICK, GLORIA",
+        "bav": 19634.0,
+        "tba": 3459.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 3761.0,
+        "propertytax": 3459.0,
+        "address": "Keeseville Avenue, Saint Albans, Queens County, NYC, New York, 11412, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.7661746,
+        "latitude": 40.6987185
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0074671751662,
+          40.7395952
+        ]
+      },
+      "properties": {
+        "emv": 4157000.0,
+        "ownername": "FAIRFAX & SAMMONS PROPERTIES, LLC",
+        "bav": 1470890.0,
+        "tba": 157150.0,
+        "taxclass": "4 - commercial property",
+        "tbea": 157150.0,
+        "propertytax": 157150.0,
+        "address": "67, Gansevoort Street, Chelsea, Manhattan, New York County, NYC, New York, 10014, United States of America",
+        "taxrate": "10.6840%",
+        "longitude": -74.0074671751662,
+        "latitude": 40.7395952
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7342539,
+          40.766735
+        ]
+      },
+      "properties": {
+        "emv": 841000.0,
+        "ownername": "ALICE PONEROS",
+        "bav": 39269.0,
+        "tba": 6902.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 7523.0,
+        "propertytax": 6902.0,
+        "address": "Thebes Avenue, Little Neck, Queens County, NYC, New York, 11362, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.7342539,
+        "latitude": 40.766735
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7564903,
+          40.6030799
+        ]
+      },
+      "properties": {
+        "emv": 371000.0,
+        "ownername": "GRETEL JOSEPH",
+        "bav": 22260.0,
+        "tba": 3962.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 4264.0,
+        "propertytax": 3962.0,
+        "address": "Loretta Road, Roy Reuther Houses, Far Rockaway, Queens County, NYC, New York, 11691, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.7564903,
+        "latitude": 40.6030799
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9865989,
+          40.7367272
+        ]
+      },
+      "properties": {
+        "emv": 286232.0,
+        "condo": "unit",
+        "bav": 106748.0,
+        "tbea": 13722.0,
+        "propertytax": 13722.0,
+        "tba": 13722.0,
+        "ownername": "CHEN, ADRIAN",
+        "latitude": 40.7367272,
+        "condonumber": 449.0,
+        "taxclass": " 2 - residential, more than 10 units",
+        "address": "72 1/2, Irving Place, Flatiron, Manhattan, New York County, NYC, New York, 10003, United States of America",
+        "taxrate": "12.8550%",
+        "longitude": -73.9865989
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92349675,
+          40.69609325
+        ]
+      },
+      "properties": {
+        "emv": 588000.0,
+        "ownername": "JANICE GEIGER WATSON",
+        "bav": 9304.0,
+        "tba": 1480.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 1782.0,
+        "propertytax": 1480.0,
+        "address": "96, Himrod Street, Bushwick, Kings County, NYC, New York, 11221, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.92349675,
+        "latitude": 40.69609325
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8755345223434,
+          40.8963464
+        ]
+      },
+      "properties": {
+        "emv": 457000.0,
+        "ownername": "ROBERT MAUCH",
+        "bav": 27420.0,
+        "tba": 4320.0,
+        "taxclass": " 1 - small home, less than 4 families",
+        "tbea": 5253.0,
+        "propertytax": 4320.0,
+        "address": "4222, Herkimer Place, Woodlawn, Bronx, Bronx County, NYC, New York, 10470, United States of America",
+        "taxrate": "19.1570%",
+        "longitude": -73.8755345223434,
+        "latitude": 40.8963464
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8568412,
+          40.6685722
+        ]
+      },
+      "properties": {
+        "emv": 55425.0,
+        "condo": "unit",
+        "bav": 23596.0,
+        "tbea": 3033.0,
+        "propertytax": 1964.0,
+        "tba": 2731.0,
+        "ownername": "GIAQUINTO GINA",
+        "latitude": 40.6685722,
+        "condonumber": 12.0,
+        "taxclass": " 2 - residential, more than 10 units",
+        "address": "149th Avenue, Ozone Park, Kings, NYC, New York, 11414; 11208, United States of America",
+        "taxrate": "12.8550%",
+        "longitude": -73.8568412
+      },
+      "type": "Feature"
+    }
+  ]
+}
